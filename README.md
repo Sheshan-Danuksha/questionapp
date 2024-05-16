@@ -20,7 +20,7 @@
 ## How to Use
 1. Clone the repository to your local machine.
 2. Set up a PHP server environment.
-3.  forward engineering database model
+3. forward engineering database model
 4. Open the application in your web browser.
 5. Insert questions.
 6. Start practicing by answering questions randomly from the database.
