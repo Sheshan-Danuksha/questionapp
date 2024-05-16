@@ -29,4 +29,4 @@ Contributions to the project are welcome! Whether it's adding new questions, imp
 
 
 ## Author:
-Sheshan
+Sheshan danuksha
