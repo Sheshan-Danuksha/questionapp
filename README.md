@@ -20,8 +20,10 @@
 ## How to Use
 1. Clone the repository to your local machine.
 2. Set up a PHP server environment.
-3. Open the application in your web browser.
-4. Start practicing by answering questions from the database.
+3.  forward engineering database model
+4. Open the application in your web browser.
+5. Insert questions.
+6. Start practicing by answering questions randomly from the database.
 
 ## Contributions:
 Contributions to the project are welcome! Whether it's adding new questions, improving existing features, or suggesting enhancements, feel free to fork the repository and submit pull requests.
