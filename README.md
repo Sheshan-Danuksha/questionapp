@@ -10,19 +10,26 @@ Helpful tool for students preparing for exams in Object-Oriented System Analysis
 Easily accessible and customizable for personal or educational use.
 
 
-Technologies Used:
-PHP
-HTML
-CSS
-JavaScript
+## Key Features
+- Access to a database of Object-Oriented System Analysis and Design questions.
+- User-friendly interface for easy navigation.
+- Support for practicing various topics within Object-Oriented System Analysis and Design.
+- Helpful tool for students preparing for exams in Object-Oriented System Analysis and Design courses.
+- Easily accessible and customizable for personal or educational use.
 
-How to Use:
-Clone the repository to your local machine.
-Set up a PHP server environment.
-Open the application in your web browser.
-Start practicing by answering questions from the database.
+## Technologies Used
+- PHP
+- HTML
+- CSS
+- JavaScript
 
-Contributions:
+## How to Use
+1. Clone the repository to your local machine.
+2. Set up a PHP server environment.
+3. Open the application in your web browser.
+4. Start practicing by answering questions from the database.
+
+##Contributions:
 Contributions to the project are welcome! Whether it's adding new questions, improving existing features, or suggesting enhancements, feel free to fork the repository and submit pull requests.
 
 
