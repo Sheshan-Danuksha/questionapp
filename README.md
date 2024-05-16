@@ -29,7 +29,7 @@ Easily accessible and customizable for personal or educational use.
 3. Open the application in your web browser.
 4. Start practicing by answering questions from the database.
 
-##Contributions:
+## Contributions:
 Contributions to the project are welcome! Whether it's adding new questions, improving existing features, or suggesting enhancements, feel free to fork the repository and submit pull requests.
 
 
