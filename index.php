@@ -102,7 +102,7 @@
                                     </div>
 
                                     <div class="mt-2">
-                                        <a target="_blank" href="https://github.com/Sheshan-Danuksha"><button class="btn mx-auto btn-dark">Follow Github <i class="bi bi-github"></i></button></a>
+                                    <a target="_blank" href="https://github.com/Sheshan-Danuksha/questionapp"><button class="btn mx-auto btn-dark">Rate and get Project in Github <i class="bi bi-github"></i></button></a>
                                     </div>
                                 </div>
                             </div>
